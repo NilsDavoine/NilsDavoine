@@ -60,7 +60,7 @@ I specialize in **Machine Learning applied to Molecular Simulations**, working a
 <a href="mailto:nils.davoine@uni.lu"><img src="https://img.shields.io/badge/email-nils.davoine@uni.lu-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://nilsdavoine.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-242424?style=flat&logo=firefox&logoColor=white"/></a>
 <a href="https://twitter.com/NilsDavoine"><img src="https://img.shields.io/twitter/follow/NilsDavoine?label=Twitter&style=social"/></a>
-<a href="https://github.com/NilsDavoine"><img src="https://img.shields.io/github/followers/DavoineNils?label=GitHub&style=social"/></a>
+<a href="https://github.com/NilsDavoine"><img src="https://img.shields.io/github/followers/NilsDavoine?label=GitHub&style=social"/></a>
 <a href="https://fr.linkedin.com/in/nils-davoine-81b46b19b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
 
 ---
