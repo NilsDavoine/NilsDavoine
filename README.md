@@ -49,10 +49,8 @@ I specialize in **Machine Learning applied to Molecular Simulations**, working a
   <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="90">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="90">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/scikit_learn/scikit_learn-ar21.svg" width="90">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="90">
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/latex-project/latex-project-ar21.svg" width="90">
 </p>
 
 ---
