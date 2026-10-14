@@ -1,69 +1,46 @@
-## 🧠 Machine Learning & Data Science in Biomedical Research
-<img src="https://media.giphy.com/media/7HuqlSbvKrzyzZhkzY/giphy.gif" width="48"> <img src="https://media.giphy.com/media/1FSNBA1Ixv3kao6OLk/giphy.gif" width="48"> <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="48">  
+# Nils Davoine
+
+**J'installe l'IA dans le travail quotidien des TPE et des PME.**
+Fondateur d'AiAllDesk, au Luxembourg.
+
+> L'IA prépare, une personne valide.
+
+Facturation, lecture de documents, tri des courriels, relances, prise de
+rendez-vous, suivi des tâches. Je relie les logiciels que vous utilisez déjà
+à un seul outil, j'y branche l'IA (celle de Microsoft 365, ou un modèle qui
+tourne sur vos propres machines), puis je forme vos équipes.
+
+[Le site d'AiAllDesk](https://nilsdavoine.github.io/aialldesk/) ·
+[LinkedIn](https://lu.linkedin.com/in/nils-davoine-81b46b19b) ·
++352 661 495 319
 
 ---
 
-## 👋 About Me
+## Ce que j'ai déjà fait
 
-Hi, I’m **Nils Davoine** – a doctoral researcher at the [University of Luxembourg](https://wwwfr.uni.lu/) and a member of the [TCP Group](https://www.tcpunilu.com/current-team-members).  
-I specialize in **Machine Learning applied to Molecular Simulations**, working at the intersection of **Artificial Intelligence**, **Theoretical Chemistry**, and **Biomedical Research**.
+- **12 entreprises** accompagnées dans 4 pays depuis octobre 2025 :
+  France, Luxembourg, Allemagne, Suisse
+- **6 applications** livrées en 4 mois pour une société d'événementiel
+- **3 produits en ligne** lancés et exploités de 2022 à 2025
+- **3 ans de recherche doctorale** en IA à l'Université du Luxembourg,
+  11 logiciels écrits
+- Coauteur de **QCell**, publié en 2026 dans la revue *AI for Science*
+  (IOP Publishing) — [DOI 10.1088/3050-287X/ae5267](https://doi.org/10.1088/3050-287X/ae5267)
 
-🔬 Currently working on:
-- Graph Neural Networks and Generative Models (GNNs, GANs) for molecule generation  
-- Building and managing data science projects with international partners  
+## Ce que je sais faire
 
-🌍 Passionate about translating data-driven insights into real-world biomedical applications and making science more open, reproducible, and impactful.
+| Votre besoin | Ce que je mets en place |
+|---|---|
+| Automatiser une tâche répétée | Facturation, relances, courriels, rendez-vous, publications |
+| Tout piloter depuis un seul endroit | Logiciels reliés par leurs API, tâches enchaînées |
+| Un assistant qui connaît vos documents | Assistants documentaires (RAG), lecture automatique (OCR) |
+| Une IA qui tourne chez vous | Modèles allégés et réentraînés, installés en local |
+| Une IA qui tient dans la durée | Mise en production et suivi des modèles (LLMOps) |
+| Des équipes autonomes | Formation à l'automatisation |
 
-📫 Let’s connect on [LinkedIn](https://fr.linkedin.com/in/nils-davoine-81b46b19b) or check out my [personal website](https://davoinenils.github.io/)
+## Outils
 
----
+Python · PyTorch · scikit-learn · LangChain · API de LLM · Microsoft 365 ·
+OCR · bases de données · développement selon le référentiel OWASP
 
-## 🧩 Skills & Interests
-
-- 💻 Python, NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch
-- 📊 Data Analysis, Predictive Modeling, Credit Risk, Data Storytelling
-- 🧬 Drug Discovery, Molecular Dynamics, Quantum Chemistry
-- 🎯 Science Communication, Research Strategy, Team Collaboration
-
----
-
-## 🌱 Ongoing Projects
-
-- 📈 **Machine Learning for Chemical Properties** (internship + collaboration context)
-- 🧪 **ML pipelines for molecular simulations and quantum chemistry datasets**
-- 🤝 **Team leadership** and mentoring in data science collaborations with 4+ contributors
-
----
-
-## ✨ Fun Facts
-
-- 💡 Teaching Python & Machine Learning to Master’s students
-- 🗣️ Speaker at ML events
-- 🎨 Passionate about blending science and data visualization
-
----
-
-## 🛠️ Tools & Technologies
-
-<p>
-  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="90">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" width="90">
-</p>
-
----
-
-## 📫 Get in Touch
-
-<a href="mailto:nils.davoine@uni.lu"><img src="https://img.shields.io/badge/email-nils.davoine@uni.lu-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://nilsdavoine.github.io"><img src="https://img.shields.io/badge/Portfolio-Website-242424?style=flat&logo=firefox&logoColor=white"/></a>
-<a href="https://twitter.com/NilsDavoine"><img src="https://img.shields.io/twitter/follow/NilsDavoine?label=Twitter&style=social"/></a>
-<a href="https://github.com/NilsDavoine"><img src="https://img.shields.io/github/followers/NilsDavoine?label=GitHub&style=social"/></a>
-<a href="https://fr.linkedin.com/in/nils-davoine-81b46b19b"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
-
----
-
-⭐ If you like what you see or have thoughts to share, feel free to reach out or star my repos.  
-Let’s build, explore and innovate together!
+Français · English · Deutsch
